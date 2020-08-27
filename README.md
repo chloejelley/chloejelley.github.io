@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chloe Jelley
 
 You can use the [editor on GitHub](https://github.com/chloejelley/chloejelley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](anthead.jpg)
 ```
+
+![Ant Head](anthead.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
