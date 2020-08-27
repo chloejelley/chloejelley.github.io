@@ -14,7 +14,7 @@ I am a Ph.D Student studying the ecology and evolution of ants and a member of t
 
 
 ### Outreach 
-![coloring page](trapjaw_coloringpage.png =300X200) 
+![coloring page](trapjaw_coloringpage.png | width = 200) 
 ![coloring page](fireant_coloringpage.png)
 
 ### Contact me 
