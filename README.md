@@ -1,5 +1,16 @@
 ## Chloe Jelley
 
+I am a Ph.D Student studying the ecology and evolution of ants and a member of the [Moreau Lab](https://www.moreaulab.entomology.cornell.edu/) and the Department of [Entomology](https://entomology.cals.cornell.edu/) at Cornell University. I am largely interested in the patterns of morphological diversity across ant lineages and how these patterns interact with ecological interactions and caste specialization. 
+
+### Why ants? 
+
+### Publications
+
+### CV
+
+### Outreach 
+
+### Contact me 
 You can use the [editor on GitHub](https://github.com/chloejelley/chloejelley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
